@@ -16,6 +16,12 @@ After you have installed python on your PC, now follow the following steps:
 - now run the file and you can see a website with various movie posters.
 - now click on that poster whose trailer you want to watch.
 
+# Acknowledgements
+
+- Google
+- Udacity classroom
+- Python Documentation
+
 # License
 
 Movie trailer website is released under [MIT License](https://choosealicense.com/licenses/mit/).
