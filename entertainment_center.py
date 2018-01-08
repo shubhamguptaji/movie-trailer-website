@@ -1,6 +1,6 @@
 import fresh_tomatoes
 #import fresh_tomatoes class from python library
-import movies
+import media
 #imports the self made class movies
 #various constructors or instances are created
 sanam_teri_kasam = media.Movies("sanam_teri_kasam", "a true love story of a boy and a girl", "https://upload.wikimedia.org/wikipedia/en/7/72/Sanam_Teri_Kasam_2016.jpeg", "https://www.youtube.com/watch?v=1IpBoMWRjm8")
